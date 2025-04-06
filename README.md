@@ -4,7 +4,7 @@ Ziel dieses Projekts ist die Entwicklung einer generativen Software zur Modellie
 
 # Installation on Linux or Mac Kernel
 **************************************************************************************************************************************
-    git clone https://github.com/alexej-schelle/Data-Mining-Spring-2025.git and start the software with the corresponding Python files
+    git clone https://github.com/alexej-schelle/GIoT.git and start the software with the corresponding Python files
 **************************************************************************************************************************************
 
 # Installation on Windows Kernel
@@ -14,7 +14,7 @@ Ziel dieses Projekts ist die Entwicklung einer generativen Software zur Modellie
 
 # Documentation on Linux, Mac and Windows Kernel
 **************************************************************************************************************************************
-    git clone https://github.com/alexej-schelle/GIoT/ and read docs/README.txt
+    git clone https://github.com/alexej-schelle/GIoT.git and read docs/README.txt
 **************************************************************************************************************************************
 
 # Documented Scenarios
