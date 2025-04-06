@@ -1,20 +1,20 @@
-# gIoT-README.txt
+# gIoT - README.txt
 
 Ziel dieses Projekts ist die Entwicklung einer generativen Software zur Modellierung von Umgebungsvariablen. 
 
 # Installation on Linux or Mac Kernel
 **************************************************************************************************************************************
-    git clone https://github.com/alexej-schelle/GIoT.git and start the software with the corresponding Python files
+    git clone https://github.com/alexej-schelle/gIoT.git and start the software with the corresponding Python files
 **************************************************************************************************************************************
 
 # Installation on Windows Kernel
 **************************************************************************************************************************************
-    Download files at https://github.com/alexej-schelle/GIoT/ and start the software with the corresponding Python files
+    Download files at https://github.com/alexej-schelle/gIoT/ and start the software with the corresponding Python files
 **************************************************************************************************************************************
 
 # Documentation on Linux, Mac and Windows Kernel
 **************************************************************************************************************************************
-    git clone https://github.com/alexej-schelle/GIoT.git and read docs/README.txt
+    git clone https://github.com/alexej-schelle/gIoT.git and read docs/README.txt
 **************************************************************************************************************************************
 
 # Documented Scenarios
