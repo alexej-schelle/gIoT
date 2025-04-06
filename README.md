@@ -20,8 +20,6 @@ Ziel dieses Projekts ist die Entwicklung einer generativen Software zur Modellie
 # Documented Scenarios
 **************************************************************************************************************************************
 
-    - Modellierung von Verkaufszahlen für Einzelhandel der Firma Rossmann 
-
     Please also visit https://constructor.university/ or ask at alexej.schelle.ext@iu.org or at aschelle@constructor.university
 
 **************************************************************************************************************************************
